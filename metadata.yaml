@@ -1,0 +1,42 @@
+_repo: Trois-contes_12065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: "Three Tales (Trois Contes) is a work by Gustave Flaubert that was originally\
+  \ published in French in 1877. It consists of the short stories \"A Simple Heart\"\
+  , \"Saint Julian the Hospitalier,\" and \"Hérodias\". \"Dance of Death\" is another\
+  \ story sometimes grouped with \"Simple Heart\" and \"Saint Julian the Hospitalier\"\
+  \ as Three Short Works.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Littérature
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12065'
+  wikidata: Q2126429
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Herodias -- Fiction'
+- !lcsh 'Julian, the Hospitaller, Saint -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Un coeur simple -- La légende de Saint Julien l'Hospitalier -- Hérodias.
+title: Trois contes
+url: http://www.gutenberg.org/ebooks/12065
+wikipedia:
+- https://fr.wikipedia.org/wiki/Trois_contes
+- https://en.wikipedia.org/wiki/Three_Tales_(Flaubert)
+- https://nl.wikipedia.org/wiki/Trois_contes
+- https://ja.wikipedia.org/wiki/%E4%B8%89%E3%81%A4%E3%81%AE%E7%89%A9%E8%AA%9E
+- https://es.wikipedia.org/wiki/Tres_cuentos
