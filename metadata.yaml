@@ -1,5 +1,8 @@
 _repo: Trois-contes_12065
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flaubert, Gustave
@@ -13,6 +16,8 @@ description: "Three Tales (Trois Contes) is a work by Gustave Flaubert that was 
   , \"Saint Julian the Hospitalier,\" and \"Hérodias\". \"Dance of Death\" is another\
   \ story sometimes grouped with \"Simple Heart\" and \"Saint Julian the Hospitalier\"\
   \ as Three Short Works.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12065#Trois-contes
 gutenberg_bookshelf:
 - FR Nouvelles
 - FR Littérature
